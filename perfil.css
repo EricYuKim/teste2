@@ -1,0 +1,24 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    text-decoration: solid;
+}
+
+#cabeca{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: aqua;
+    text-decoration:double
+}
+
+.resumo{
+    font-style: italic;
+    text-decoration:underline;
+}
+ 
+a[href="mailto:kimuraeric54@gmail.com"] {
+    color: blue;
+}
+
+a:hover{
+    background-color: brown;
+}
